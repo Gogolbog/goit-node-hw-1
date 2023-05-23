@@ -22,5 +22,9 @@
     "install": "^0.13.0",
     "nodemon": "^2.0.22",
     "npm": "^9.6.7"
+  },
+  "dependencies": {
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4"
   }
 }
